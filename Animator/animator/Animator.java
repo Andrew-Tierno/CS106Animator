@@ -4,7 +4,6 @@ import acm.graphics.*;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.MouseEvent;
-import java.lang.reflect.Method;
 import java.util.*;
 import javax.swing.*;
 import com.eztech.util.*;
