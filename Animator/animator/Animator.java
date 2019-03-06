@@ -48,9 +48,9 @@ public class Animator extends GraphicsProgram {
 		Iterator<AbstractButton> iter = buttons.getElements().asIterator();
 		while(iter.hasNext()) {
 			AbstractButton b = iter.next();
+			b.addActionListener(this);
 			add(b, WEST);
 		}
-		System.out.println("Selected is " + selected);
 		
 		addActionListeners();
 	}
@@ -66,7 +66,6 @@ public class Animator extends GraphicsProgram {
 	
 	public void actionPerformed(ActionEvent e) {
 		selected = e.getActionCommand();
-		System.out.println("Selected is now " + selected);
 	}
 	
 	public void mouseClicked(MouseEvent e) {
