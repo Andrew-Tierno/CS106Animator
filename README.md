@@ -9,6 +9,8 @@ Hi my name is Ye.
 This is Akhil!
 Xin
 
+Nat
+
 Xin is very very fast
 
 Karen Villanueva
@@ -17,7 +19,7 @@ Karen Villanueva
 How many Cal students does it take to screw in a lightbulb?
 50. 1 to screw it in and 49 to protest the fact that the bulb isn't a CFL bulb
 
-
+Chase
 
 
 
